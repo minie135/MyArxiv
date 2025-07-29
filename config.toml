@@ -4,13 +4,13 @@ cache_url = "https://minie135.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
+category = "cs.AR"
+title = "Hardware Architecture"
 
 [[sources]]
 limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+category = "cs.CR"
+title = "Cryptography and Security"
 
 [[sources]]
 limit = 150
@@ -19,13 +19,13 @@ title = "Machine Learning"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.MA"
+title = "Multiagent Systems"
 
 [[sources]]
 limit = 150
-category = "cs.AR"
-title = "Hardware Architecture"
+category = "cs.CL"
+title = "Computation and Language"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
