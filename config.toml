@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 15
 cache_url = "https://minie135.github.io/MyArxiv/cache.json"
 
 [[sources]]
@@ -13,12 +13,12 @@ category = "cs.CR"
 title = "Cryptography and Security"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.LG"
 title = "Machine Learning"
 
 [[sources]]
-limit = 150
+limit = 200
 category = "cs.MA"
 title = "Multiagent Systems"
 
